@@ -1,2 +1,2 @@
 # NewsApiApp
-News App using https://newsapi.org/
+**News API App** is an android app which is created using https://newsapi.org/ and in-order to make this app run you need to add API Key that can be generated from https://newsapi.org/ and add it in the news API token in the code and generate the build and run it in android device.
